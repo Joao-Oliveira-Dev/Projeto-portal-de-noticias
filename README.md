@@ -2,7 +2,7 @@
 <br>
 
 Tendo como foco, o estudo e aplicação das <grids>, apesar de não ser um site funcional (Não leva a nenhuma outra aba)
-Mostra por completo a aplição dos meus estudos, conhecimentos e pregressão de avanço na área.
+Mostra por completo a aplição dos meus estudos, conhecimentos e progressão de avanço na área.
 
 <br>
 
